@@ -10,9 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Benjumpin/leetcode-for-life/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Benjumpin/leetcode-for-life/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Benjumpin/leetcode-for-life/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Benjumpin/leetcode-for-life/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
