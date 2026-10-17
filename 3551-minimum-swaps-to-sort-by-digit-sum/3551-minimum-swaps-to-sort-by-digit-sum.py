@@ -1,33 +1,41 @@
 import copy
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
-
+        dsum = [0 for _ in range(len(nums))]
         pair = []
-        for num in nums:
-            d_sum = sum(int(digit) for digit in str(num))
-            pair.append((d_sum, num))
-
-        target = sorted(pair)
-
-        val_to_target_idx = {val: i for i, (d_sum, val) in enumerate(target)}
-        
-        visited = [False] * len(nums)
-        swaps = 0
 
         for i in range(len(nums)):
-            if visited[i] or pair[i] == target[i]:
-                continue
+            num = nums[i]
+            for digit in list(str(num)):
+                dsum[i] += int(digit)
+            pair.append((dsum[i], num))
 
-            cycle_length = 0
-            curr = i
+        target = sorted(pair)
+        val_to_target_idx = {}
 
-            while not visited[curr]:
-                visited[curr] = True
-
-                curr = val_to_target_idx[pair[curr][1]]
-                cycle_length += 1
-
-            if cycle_length > 1:
-                swaps += (cycle_length - 1)
+        for i in range(len(target)):
+            digit = target[i][1]
+            val_to_target_idx[digit] = i
         
-        return swaps
+        print(val_to_target_idx)
+
+        visited = [False] * len(nums)
+        swaps = 0
+        
+        for i in range(len(nums)):
+            if visited[i] or pair[i] == target[i]: 
+                # visited or in right pos then skip
+                continue 
+
+            cycle = 0
+            temp = i
+            while not visited[temp]:
+                visited[temp] = True
+                # find where element belongs in target arr
+                temp = val_to_target_idx[pair[temp][1]]
+                cycle += 1
+
+            if cycle > 1:
+                swaps += cycle - 1 
+
+        return swaps 
