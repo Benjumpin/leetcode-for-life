@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Benjumpin/leetcode-for-life/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Benjumpin/leetcode-for-life/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Benjumpin/leetcode-for-life/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,4 +42,40 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Benjumpin/leetcode-for-life/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
