@@ -88,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Benjumpin/leetcode-for-life/tree/main/3886-sum-of-sortable-integers/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Benjumpin/leetcode-for-life/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 <!---LeetCode Topics End-->
