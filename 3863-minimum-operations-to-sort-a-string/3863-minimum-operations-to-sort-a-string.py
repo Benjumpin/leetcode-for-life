@@ -6,13 +6,7 @@ class Solution:
             return 1
         elif len(s) == 2:
             return -1
-        print(min(s), " = min(s)")
-        print(s[1::], " = proper prefix")
-        print(min(s) in s[1::])
-        print(max(s), " = max(s)")
-        print(s[:-1:], " = proper suffix")
-        print(max(s) in s[:-1:])
-        if min(s) in s[:-1] or max(s) in s[1:]:
+        elif min(s) in s[:-1] or max(s) in s[1:]:
             return 2
         else:
             return 3
