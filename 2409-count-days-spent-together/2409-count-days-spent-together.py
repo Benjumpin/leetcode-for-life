@@ -25,7 +25,4 @@ class Solution:
         overlap_start = max(arriveAlice, arriveBob)
         overlap_end = min(leaveAlice, leaveBob)
         
-        print(arriveAlice, leaveAlice, arriveBob, leaveBob)
-        print(overlap_start, overlap_end)
-        
         return max(0, overlap_end - overlap_start + 1)
