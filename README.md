@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Benjumpin/leetcode-for-life/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Benjumpin/leetcode-for-life/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Benjumpin/leetcode-for-life/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/Benjumpin/leetcode-for-life/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Benjumpin/leetcode-for-life/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
