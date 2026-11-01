@@ -1,5 +1,5 @@
 class Solution:
-    def minMoves(self, nums: list[int]) -> int:
+    def minMoves(self, nums):
         # if len(set(nums)) == 1:
         #     return 0
         # ans = 0
