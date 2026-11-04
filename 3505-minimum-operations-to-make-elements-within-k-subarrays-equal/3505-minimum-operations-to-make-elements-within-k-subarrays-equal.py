@@ -1,3 +1,5 @@
+# Sliding Window + Two Heaps + Mathematics + Dynamic Programming
+# Try Again
 class Solution:
     def minOperations(self, nums: List[int], x: int, k: int) -> int:
         n = len(nums)
