@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Benjumpin/leetcode-for-life/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Benjumpin/leetcode-for-life/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/Benjumpin/leetcode-for-life/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Benjumpin/leetcode-for-life/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Benjumpin/leetcode-for-life/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
@@ -128,17 +130,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Benjumpin/leetcode-for-life/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Benjumpin/leetcode-for-life/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Benjumpin/leetcode-for-life/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Benjumpin/leetcode-for-life/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -159,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/Benjumpin/leetcode-for-life/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Benjumpin/leetcode-for-life/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Benjumpin/leetcode-for-life/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
