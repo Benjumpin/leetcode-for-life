@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Benjumpin/leetcode-for-life/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Benjumpin/leetcode-for-life/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Benjumpin/leetcode-for-life/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Benjumpin/leetcode-for-life/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/Benjumpin/leetcode-for-life/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Benjumpin/leetcode-for-life/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
