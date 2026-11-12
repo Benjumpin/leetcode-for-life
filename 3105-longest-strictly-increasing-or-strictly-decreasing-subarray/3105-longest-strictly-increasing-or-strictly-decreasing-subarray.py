@@ -1,3 +1,4 @@
+# tired code, try again when awake
 class Solution:
     def longestMonotonicSubarray(self, nums: List[int]) -> int:
         prev = nums[0]
@@ -19,5 +20,7 @@ class Solution:
                 d_ans = max(d_ans, down)
                 down = 1
             prev = curr
-        return max(max(u_ans, up),max(d_ans, down))
+
+
+        return max(max(u_ans, up), max(d_ans, down))
         
