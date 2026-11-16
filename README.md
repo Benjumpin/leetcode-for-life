@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Benjumpin/leetcode-for-life/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Benjumpin/leetcode-for-life/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Benjumpin/leetcode-for-life/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Benjumpin/leetcode-for-life/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Benjumpin/leetcode-for-life/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Benjumpin/leetcode-for-life/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
