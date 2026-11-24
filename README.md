@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Benjumpin/leetcode-for-life/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Benjumpin/leetcode-for-life/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Benjumpin/leetcode-for-life/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Benjumpin/leetcode-for-life/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Benjumpin/leetcode-for-life/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Benjumpin/leetcode-for-life/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Benjumpin/leetcode-for-life/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Benjumpin/leetcode-for-life/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Benjumpin/leetcode-for-life/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Benjumpin/leetcode-for-life/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Benjumpin/leetcode-for-life/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Benjumpin/leetcode-for-life/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Benjumpin/leetcode-for-life/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Benjumpin/leetcode-for-life/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/Benjumpin/leetcode-for-life/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/Benjumpin/leetcode-for-life/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Benjumpin/leetcode-for-life/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Benjumpin/leetcode-for-life/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Benjumpin/leetcode-for-life/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -189,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Benjumpin/leetcode-for-life/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Benjumpin/leetcode-for-life/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
